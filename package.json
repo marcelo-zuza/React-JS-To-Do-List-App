@@ -1,7 +1,7 @@
 {
   "name": "app-list-to-do",
   "version": "0.1.0",
-  "homepage": "https://marcelo-zuza.github.io/react-js-to-do-list-app",
+  "homepage": "https://marcelo-zuza.github.io/React-JS-To-Do-List-App/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -12,6 +12,7 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
     "react-scripts": "5.0.1",
+    "vite": "^4.4.7",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
